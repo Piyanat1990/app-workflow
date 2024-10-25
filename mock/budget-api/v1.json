@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "title": "Gaming Laptop",
+      "amount": 10,
+      "quantity": 3200,
+      "status": "APPROVED",
+      "id": 1
+    },
+    {
+      "title": "SSD Storage",
+      "amount": 10,
+      "quantity": 500,
+      "status": "APPROVED",
+      "id": 9
+    }
+  ]
+}
